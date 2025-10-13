@@ -6,7 +6,7 @@ object batchffpmegmainform: Tbatchffpmegmainform
   Caption = 'Batch FFMpeg Transcoder'
   ClientHeight = 904
   ClientWidth = 1355
-  Color = clMenu
+  Color = clWindow
   LCLVersion = '4.0.0.4'
   OnClose = FormClose
   OnShow = FormShow
