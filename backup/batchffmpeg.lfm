@@ -1,0 +1,8 @@
+object batchffpmeg: Tbatchffpmeg
+  Left = 237
+  Height = 240
+  Top = 146
+  Width = 320
+  Caption = 'batchffpmeg'
+  LCLVersion = '4.0.0.4'
+end

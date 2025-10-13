@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="batchffmpeg.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="35" Y="19"/>
+        <UsageCount Value="44"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <UsageCount Value="44"/>
+      </Unit>
+      <Unit>
+        <Filename Value="batchffmpegmain.pas"/>
+        <ComponentName Value="batchffpmegmainform"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="529"/>
+        <CursorPos X="12" Y="546"/>
+        <UsageCount Value="22"/>
+        <Bookmarks Count="1">
+          <Item0 Y="576" Left="1" Top="519" ID="1"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/lib/lazarus/4.0/lcl/include/control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3581"/>
+        <CursorPos Y="3631"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/packages/univint/src/Controls.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="291"/>
+        <CursorPos X="24" Y="302"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/lib/lazarus/4.0/components/lazutils/laztracer.pas"/>
+        <UnitName Value="LazTracer"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="7"/>
+        <CursorPos X="60" Y="31"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/lib/lazarus/4.0/lcl/include/customcombobox.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="991"/>
+        <CursorPos Y="1025"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/lib/lazarus/4.0/lcl/interfaces/gtk2/gtk2int.pas"/>
+        <UnitName Value="Gtk2Int"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="646"/>
+        <CursorPos Y="691"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/lib/lazarus/4.0/components/lazutils/lazfileutils.pas"/>
+        <UnitName Value="LazFileUtils"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="850"/>
+        <CursorPos Y="884"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/lib/lazarus/4.0/lcl/include/listitem.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="640"/>
+        <CursorPos Y="671"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/packages/fcl-process/src/process.pp"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="36" Y="25"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/rtl/unix/baseunix.pp"/>
+        <UnitName Value="BaseUnix"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="54"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/rtl/unix/unix.pp"/>
+        <UnitName Value="Unix"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="16" Y="19"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/rtl/unix/unixtype.pp"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/lib/lazarus/4.0/components/lazutils/fileutil.pas"/>
+        <UnitName Value="FileUtil"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="31"/>
+        <CursorPos X="22" Y="69"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/rtl/inc/systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1260"/>
+        <CursorPos X="11" Y="1289"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/lib/lazarus/4.0/lcl/include/customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="915"/>
+        <CursorPos X="21" Y="934"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="263" TopLine="263"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="505" TopLine="455"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="58" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="510" Column="2" TopLine="456"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="307" Column="47" TopLine="257"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="315" TopLine="263"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="518" TopLine="471"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="501" Column="4" TopLine="478"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="510" TopLine="478"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="530" TopLine="478"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="531" TopLine="478"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="532" TopLine="478"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="520" TopLine="478"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="506" Column="30" TopLine="479"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="58" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="553" TopLine="515"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="557" TopLine="522"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="155" TopLine="98"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="553" Column="19" TopLine="521"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="5"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="483" Column="47" TopLine="431"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="557" Column="4" TopLine="521"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="61" Column="35" TopLine="33"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="285" Column="36" TopLine="235"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="293" Column="39" TopLine="243"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="569" Column="17" TopLine="520"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="561" Column="2" TopLine="527"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="472" Column="2" TopLine="472"/>
+      </Position>
+      <Position>
+        <Filename Value="batchffmpegmain.pas"/>
+        <Caret Line="2"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="batchffmpegmain.pas"/>
+        <Line Value="409"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="batchffmpegmain.pas"/>
+        <Line Value="485"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
