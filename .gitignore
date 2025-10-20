@@ -1,0 +1,9 @@
+/backup
+/backup/batchffmpeg.lps
+batchffmpeg.lps
+lib/x86_64-linux/batchffmpeg.o
+*.lps
+*.o
+batchffmpeg.lps
+backup/batchffmpeg.lps
+lib/x86_64-linux/batchffmpeg.compiled
