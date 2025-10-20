@@ -1,0 +1,8 @@
+[Desktop Entry]
+Comment=batchffmpeg batch file transcoder using ffmpeg
+Exec=batchffmpeg
+Icon=
+Name[en_GB]=batchffmpeg
+Name=batchffmpeg
+Terminal=false
+Type=Application

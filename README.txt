@@ -57,11 +57,14 @@ sudo apt install make gdb fpc fpc-source lazarus-ide-qt5 lcl-gtk2 lcl-qt5
 You should then be able to run the Lazarus IDE app, load the project file "batchffmpeg.lpr" and compile it.
 
 If you don't want to install Lazarus and compile batchffmpeg yourself then you can just take the x86 binary "batchffmpeg" from the batchffmpeg repo and use that instead.
-You will need to copy the batchffmpeg app binary file to a suitable folder e.g. "/usr/bin/".
-You will also need to make it executable so run "sudo chmod +x /usr/bin/batchffmpeg" in the terminal.
+You will need to copy the batchffmpeg app binary file to a suitable folder e.g. "/usr/local/bin/".
+You will also need to make it executable so run "sudo chmod +x /usr/local/bin/batchffmpeg" in the terminal.
 You can then try running it from the terminal by typing "batchffmpeg" to confirm that it runs OK. 
 If the batchffmpeg app won't run from the terminal then I *think* that if you install the "qt5pas" package then that should allow the batchffmpeg binary to run:
 To install qt5pas on Arch: sudo pacman -S qt5pas   
 To install qt5pas on Debian/Ubuntu type distro: sudo apt install qt5pas
+
+Once it's working from the terminal then you can (sudo) copy the "batchffmpeg.desktop" file from the batchffmpeg repo to your /usr/share/applications folder which should allow you to launch batchffmpeg
+from your application launcher/menu.
 
 Have fun!
