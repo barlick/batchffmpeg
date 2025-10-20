@@ -216,6 +216,6 @@ object batchffpmegmainform: Tbatchffpmegmainform
     Title = 'Select Folder'
     InitialDir = '~'
     Left = 1128
-    Top = 88
+    Top = 87
   end
 end

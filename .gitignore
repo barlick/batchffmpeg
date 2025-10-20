@@ -1,4 +1,5 @@
 /backup
+/lib
 /backup/batchffmpeg.lps
 /backup/batchffmpegmain.lps
 batchffmpeg.lps
@@ -13,3 +14,5 @@ lib/x86_64-linux/batchffmpeg.compiled
 lib/x86_64-linux/batchffmpegmain.o
 lib/x86_64-linux/batchffmpegmain.ppu
 backup/batchffmpeg.lps
+/lib/x86_64-linux
+/lib
