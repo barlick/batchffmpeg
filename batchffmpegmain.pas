@@ -570,7 +570,7 @@ begin
  load_config;
  scanforfiles;
  StatusMemo.clear;
- StatusMemo.Lines.Add('Waiting. Select required source video files for conversion and then click "Start".');
+ StatusMemo.Lines.Add('Waiting. Please select the required source video files for conversion and then click "Start".');
  factive := true;
 end;
 

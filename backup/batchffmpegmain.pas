@@ -553,7 +553,7 @@ end;
 
 procedure Tbatchffpmegmainform.FormShow(Sender: TObject);
 begin
- factive := false;
+ factive := false; // Disable all control events whilst setting the default configuration.
  SourceImageFileTypesEdit.text := '*.MKV;*.M4V;*.MP4;*.AVI;*.MOV;*.WMV;*.WEBM';
  presSourceImageFileTypesEditText := SourceImageFileTypesEdit.text;
  presSourceFolderEditText := '';
