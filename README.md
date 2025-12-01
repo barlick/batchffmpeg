@@ -1,4 +1,4 @@
-Welcome to the batchffmpeg linux batch video file transcoding application.
+Welcome to the batchffmpeg linux ffmpeg based batch video file transcoding application.
 
 ![alt text](https://github.com/barlick/batchffmpeg/blob/main/batchffmpeg_screenshot.png)
 
