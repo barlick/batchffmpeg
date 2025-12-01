@@ -1,5 +1,7 @@
 Welcome to the batchffmpeg linux batch video file transcoding application.
 
+![alt text](https://github.com/barlick/batchffmpeg/blob/main/batchffmpeg_screenshot.png)
+
 This is for use with linux and uses "ffmpeg" to do the transcoding.
 
 I coded and tested this using Arch linux but it should work OK on other distros such as Debian, Ubuntu, Linux Mint etc. as long as "ffmpeg" is installed.
